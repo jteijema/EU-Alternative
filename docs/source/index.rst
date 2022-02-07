@@ -15,7 +15,7 @@ EU built, open-source, `GDPR <https://gdpr.eu/>`__ compliant, and sustainable
 alternatives to help European companies compete with their non-European
 counterparts.
 
-This site is based on `evropean.eu/ <https://www.evropean.eu/about>`__.
+This site is based on `evropean.eu <https://www.evropean.eu/about>`__.
 Check :doc:`about` for more information.
 
 .. note::
