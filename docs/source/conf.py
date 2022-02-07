@@ -9,8 +9,8 @@ project = 'EU-Alternative'
 copyright = '{}, EU Alternative'.format(year)
 author = 'github.com/JTeijema'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0'
+version = '0.0.1'
 
 # -- General configuration
 
