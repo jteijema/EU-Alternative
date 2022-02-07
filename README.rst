@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
-=======================================
+Repository for the EU-alternative documentation
+===============================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Europe through the ages has been the epicenter of innovation. This site is
+documenting European alternatives to foreign companies. 

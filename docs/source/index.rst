@@ -1,13 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to the EU Alternative
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Europe through the ages has been the epicenter of innovation. However, most big
+tech is located and developed based in the US or China, outside of the (much
+needed) European regulations.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The **EU Alternative** is documenting European alternatives to foreign companies,
+both for :doc:`software` and :doc:`hardware`. We Promote EU built, open-source, GDPR
+compliant, and sustainable alternatives to foreign companies.
+
+This site is based on `evropean.eu/about <https://www.evropean.eu/about>`__.
 
 .. note::
 
@@ -18,5 +20,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   software
+   hardware
+   about
