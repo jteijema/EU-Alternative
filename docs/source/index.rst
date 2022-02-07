@@ -12,7 +12,7 @@ companies, both for :doc:`software` and :doc:`hardware`. We also document
 We Promote EU built, open-source, `GDPR <https://gdpr.eu/>`__ compliant, and
 sustainable alternatives to foreign companies.
 
-This site is based on `evropean.eu/about <https://www.evropean.eu/about>`__.
+This site is based on `evropean.eu/ <https://www.evropean.eu/about>`__.
 Check :doc:`about` for more information.
 
 .. note::
