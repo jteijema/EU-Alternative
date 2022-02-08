@@ -5,16 +5,15 @@ jobs:
     name: lint-python
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - uses: actions/setup-python@v1
-      with:
-        python-version: '3.8'
-        architecture: 'x64'
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.9"
     - name: Install flake8
       run: |
         pip install flake8
         pip install flake8-rst
-    - name: Lint python with flake8
+    - name: Run flake8
       run: |
-        flake8 . --max-complexity=10
-        flake8-rst . --max-complexity=10
+        flake8 . --max-complexity=10 --show-source --statistics
+        flake8-rst . --max-complexity=10 --show-source --statistics
