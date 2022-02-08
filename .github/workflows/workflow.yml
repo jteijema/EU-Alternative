@@ -1,17 +1,12 @@
-name: test-suite
+name: "Docs Check"
 on: [push, pull_request]
+
 jobs:
-  flake8-linter:
-    name: flake8-linter
+  docs:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-python@v2
+    - uses: actions/checkout@v1
+    - uses: ammaraskar/sphinx-action@master
       with:
-        python-version: "3.9"
-    - name: Install flake8
-      run: |
-        pip install flake8
-    - name: Run flake8
-      run: |
-        flake8 --max-complexity=10  --max-line-length=82 --filename=*.rst docs/
+        docs-folder: "docs/"
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
