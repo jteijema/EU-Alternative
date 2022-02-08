@@ -23,7 +23,7 @@ Image Editors
       contributions come from Europe where the current GIMP maintainers live.
 
 
-Specialist tools
+Scientific tools
 ----------------
 * `ASReview`_
     - ASReview is a tool used to aid screening of text records. Based on active
