@@ -8,7 +8,7 @@ It is inconvenient (and neigh impossible) to only use EU-based companies, but if
 
 See [EU-Alternative.readthedocs.io](https://eu-alternative.readthedocs.io/en/latest/) for the latest build.
 
-## Contribute
+## Contribute & contact
 Do you have a European based solution to add to the site, or do you want to contribute in another way? The best way to get in touch is to use the GitHub repository.
 
 Simply create a new issue or pull request to the development branch with your contribution, and it’ll get reviewed for the website.
