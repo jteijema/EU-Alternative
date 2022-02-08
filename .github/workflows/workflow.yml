@@ -1,14 +1,14 @@
 name: test-suite
 on: [push, pull_request]
 jobs:
-  flake8-linter:
-    name: flake8-linter
+  lint-python:
+    name: lint-python
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: "3.9"
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v2
+      with:
+        python-version: "3.9"
     - name: Install flake8
       run: |
         pip install flake8
@@ -18,3 +18,4 @@ jobs:
         flake8 . --max-complexity=10 --show-source --statistics --max-line-length=82
         flake8-rst . --max-complexity=10 --show-source --statistics
         --max-line-length=82
+        
