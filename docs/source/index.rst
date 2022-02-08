@@ -7,7 +7,7 @@ needed) European regulations.
 
 The **EU Alternative** is documenting European alternatives to foreign
 companies, both for :doc:`software` and :doc:`hardware`. We also document
-pro-european :doc:`websites`.
+European :doc:`websites`.
 
 It is inconvenient (and neigh *impossible*) to only use EU-based companies,
 but if a solid alternative is available, we aim to document it here. We promote

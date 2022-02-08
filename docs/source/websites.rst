@@ -21,6 +21,12 @@ Search Engines
       It does not employ user tracking or personalize search results. The search
       engine is available in 26 languages.
 
+Maps
+----
+* `OpenStreetMap`_
+    - OpenStreetMap is a free map of the world. It is available in many
+      languages. It's developer, The OpenStreetMap Foundation, is a
+      UK-registered not-for-profit organization.
 
 .. _Euronews: https://www.euronews.com/
 .. _Qwant: https://www.qwant.com/
