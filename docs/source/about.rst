@@ -5,8 +5,8 @@ This website is an open source alternative to the amazing initiative `evropean.e
 <https://www.evropean.eu/>`__.
 
 
-Contribute & contact
---------------------
+Contribute
+----------
 Do you have a European based solution to add to the site, or do you want to
 contribute in another way? The best way to get in touch is to use the `GitHub
 <https://github.com/JTeijema/EU-Alternative>`__ repository.
