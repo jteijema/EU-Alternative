@@ -1,7 +1,7 @@
 The EU Alternative database
 ===========================
 
-Europe through the ages has been the epicenter of innovation. However, most big
+Europe through the ages has been the epicenter of innovation. However, most big test
 tech is located and developed based in the US or China, outside of the (much
 needed) European regulations.
 
