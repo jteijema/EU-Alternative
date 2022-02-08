@@ -7,13 +7,13 @@ News Sources
 ------------
 * `Euronews`_
     - Euronews is a pan-European television news network, headquartered in Lyon,
-      France. The network began broadcasting on 1 January 1993 and aimed to
+      **France**. The network began broadcasting on 1 January 1993 and aimed to
       cover world news from a pan-European perspective.
 
 Search Engines
 --------------
 * `Qwant`_
-    - Qwant is a search engine that is based on the research of the French
+    - Qwant is a search engine that is based on the research of the **French**
       National Institute for Research in Cognitive Science (INRIA). Qwant is a
       free search engine that allows you to search for anything on the web. It
       is one of the few EU-based search engines with its own indexing engine. 
@@ -26,7 +26,7 @@ Maps
 * `OpenStreetMap`_
     - OpenStreetMap is a free map of the world. It is available in many
       languages. It's developer, The OpenStreetMap Foundation, is a
-      UK-registered not-for-profit organization.
+      **UK**-registered not-for-profit organization.
 
 .. _Euronews: https://www.euronews.com/
 .. _Qwant: https://www.qwant.com/
