@@ -16,6 +16,4 @@ jobs:
     - name: Run flake8
       run: |
         flake8 . --max-complexity=10 --show-source --statistics --max-line-length=82
-        flake8-rst . --max-complexity=10 --show-source --statistics
-        --max-line-length=82
-        
+        flake8-rst . --max-complexity=10 --show-source --statistics --max-line-length=82
