@@ -1,8 +1,8 @@
 name: test-suite
 on: [push, pull_request]
 jobs:
-  lint-python:
-    name: lint-python
+  flake8-linter:
+    name: flake8-linter
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -15,5 +15,5 @@ jobs:
         pip install flake8-rst
     - name: Run flake8
       run: |
-        flake8 . --max-complexity=10 --show-source --statistics --max-line-length=82
-        flake8-rst . --max-complexity=10 --show-source --statistics --max-line-length=82
+        flake8 . --max-complexity=10  --max-line-length=82 --show-source --statistics
+        flake8-rst .
