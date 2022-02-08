@@ -15,5 +15,7 @@ jobs:
         pip install flake8-rst
     - name: Run flake8
       run: |
-        flake8 . --max-complexity=10  --max-line-length=82 --show-source --statistics
+        flake8 . --max-complexity=10  --max-line-length=82
+    - name: Run flake8-rst
+      run: |
         flake8-rst .
