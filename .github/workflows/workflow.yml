@@ -2,7 +2,7 @@ name: "Docs Check"
 on: [push, pull_request]
 
 jobs:
-  docs:
+  sphinx-test:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
@@ -10,3 +10,8 @@ jobs:
       with:
         docs-folder: "docs/"
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
+  docslint:
+    runs-on: ubuntu-latest
+    steps:
+    - name: run docslint
+      run: docslint
