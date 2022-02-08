@@ -10,8 +10,8 @@ companies, both for :doc:`software` and :doc:`hardware`. We also document
 European :doc:`websites`.
 
 It is inconvenient (and neigh *impossible*) to only use EU-based companies,
-but if a solid alternative is available, we aim to document it here. We promote
-EU built, open-source, `GDPR <https://gdpr.eu/>`__ compliant, and sustainable
+but if a solid alternative is available, the goal is to document it here. We promote
+European made, open-source, `GDPR <https://gdpr.eu/>`__ compliant, and sustainable
 alternatives to help European companies compete with their non-European
 counterparts.
 
