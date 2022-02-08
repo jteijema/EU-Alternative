@@ -17,8 +17,8 @@ Office Suites
 
 Image Editors
 -------------
-* `Gimp`_
-    - Gimp is a free and open source image editor. It is used to edit images,
+* `GIMP`_
+    - GIMP is a free and open source image editor. It is used to edit images,
       create new ones, and edit them in various ways. Code-wise most of project
       contributions come from **Europe** where the current GIMP maintainers live.
 
@@ -35,5 +35,5 @@ Scientific tools
 
 .. _LibreOffice: https://www.libreoffice.org/
 .. _Document Foundation: https://www.documentfoundation.org/
-.. _Gimp: https://www.gimp.org/
+.. _GIMP: https://www.gimp.org/
 .. _ASReview: https://asreview.readthedocs.io/en/latest/
